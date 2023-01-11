@@ -1,0 +1,12 @@
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\bin\Debug\net5.0\_0_FrameWork.deps.json
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\bin\Debug\net5.0\_0_FrameWork.dll
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\bin\Debug\net5.0\ref\_0_FrameWork.dll
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\bin\Debug\net5.0\_0_FrameWork.pdb
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.AssemblyInfoInputs.cache
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.AssemblyInfo.cs
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.dll
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\ref\_0_FrameWork.dll
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.pdb
+C:\Users\PISHGAMAN2\Desktop\project\code\LampShade\_0_FrameWork\obj\Debug\net5.0\_0_FrameWork.csproj.AssemblyReference.cache
